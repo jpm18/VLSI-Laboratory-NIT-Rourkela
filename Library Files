@@ -1,1 +1,4 @@
+# Requsite Synopsys Library Files
+
+The Library files namely saed90nm.v, saed90nm_max.lib, saed90nm_min.lib, saed90nm_typ.lib is being used as the necessary constraint files in verification stages of laboratory assignments
 
