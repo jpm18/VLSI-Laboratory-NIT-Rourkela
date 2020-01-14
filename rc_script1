@@ -1,0 +1,29 @@
+#general setup
+#--------------
+set_attribute lib_search_path /home/guests/mtech1517/mannerao15/libs
+set_attribute hdl_search_path /home/guests/mtech1517/mannerao15/asiclab/rc
+#load the library
+#------------------------------
+set_attribute library  saed90nm_typ.lib
+#load and elaborate the design
+#------------------------------
+read_hdl moore.v
+elaborate
+#specify timing and design constraints
+#--------------------------------------
+#read_sdc sdc_file
+#add optimization constraints
+#----------------------------
+.....
+#synthesize the design
+#---------------------
+synthesize -to_mapped
+#analyze design
+------------------
+report area
+report timing
+report gates
+#export design
+#-------------
+write_hdl > design_netlist.v
+
