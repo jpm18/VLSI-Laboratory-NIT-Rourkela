@@ -1,5 +1,14 @@
 This tutorial will discuss the various views that make-up a standard-cell library and then illustrate how to use a set of Synopsys and Cadence ASIC tools to map an RTL design down to these standard cells and ultimately silicon. The tutorial will discuss the key tools used for synthesis, place-and-route, and power analysis. This tutorial requires entering commands manually for each of the tools to enable students to gain a better understanding of the detailed steps involved in this process.
 
+Using Synopsys Design Compiler for Synthesis
+
+Using Cadence Innovus for Place-and-Route
+
+Using Synopsys PrimeTime for Power Analysis
+
+Using other tools for testing and verifying Verilog RTL Models
+
+
 # VLSI-Laboratory-NIT-Rourkela
 
 Laboraory manuals and Discussion - 
