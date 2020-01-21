@@ -1,6 +1,11 @@
+This tutorial will discuss the various views that make-up a standard-cell library and then illustrate how to use a set of Synopsys and Cadence ASIC tools to map an RTL design down to these standard cells and ultimately silicon. The tutorial will discuss the key tools used for synthesis, place-and-route, and power analysis. This tutorial requires entering commands manually for each of the tools to enable students to gain a better understanding of the detailed steps involved in this process.
+
 # VLSI-Laboratory-NIT-Rourkela
-Laboraory manuals and Discussion
+
+Laboraory manuals and Discussion - 
 The laboratory activities reflects the work being conducted as an academic course work for post graduate students at NIT Rourkela India towards completion of graded work as assignment in a semester.
+
+
 # Acknowledgement
 The author, JPM, would like to thank SMDP-C2SD, sponsored project MEITY, Government of India.
 
