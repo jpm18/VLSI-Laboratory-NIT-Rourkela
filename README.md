@@ -1,4 +1,4 @@
-This tutorial will discuss the various views that make-up a standard-cell library and then illustrate how to use a set of Synopsys and Cadence ASIC tools to map an RTL design down to these standard cells and ultimately silicon. The tutorial will discuss the key tools used for synthesis, place-and-route, and power analysis. This tutorial requires entering commands manually for each of the tools to enable students to gain a better understanding of the detailed steps involved in this process.
+This tutorial is an academic related experimental base and explores the various views that make-up a standard-cell library and then illustrate how to use a set of Synopsys and Cadence ASIC tools to map an RTL design down to these standard cells and ultimately silicon. The tutorial will discuss the key tools used for synthesis, simulation, verifying testing scenarios and power as well as timing analysis. This tutorial requires entering commands manually for each of the tools to enable students to gain a better understanding of the detailed steps involved in this process.
 
 Using Synopsys Design Compiler for Synthesis
 
